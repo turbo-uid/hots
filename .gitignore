@@ -1,0 +1,29 @@
+*.sql
+**/.DS_Store
+**/*.tar.gz
+**/*.zip
+**/*.rar
+# 忽略 Cargo 的构建缓存
+Cargo.lock
+# 忽略 IDE 配置文件
+.idea/
+.vscode/
+*.iml
+# 忽略日志文件
+**/*.log
+# 忽略二进制文件
+**/*.exe
+**/*.out
+**/*.test
+**/*.so
+# 忽略编辑器生成的文件
+**/*.swp
+**/*.swo
+**/*.bak
+**/*.tmp
+**/*.idea
+**/*.vscode
+/vendor
+
+
+
