@@ -31,26 +31,23 @@ go run cmd/api/main.go
 
 
 ## 微信小程序体验
+<img src="images/wechat-mini.jpg" height="360" width="360">
 <table>
   <tr>
     <td align="center">
-      <img src="images/wechat-mini.jpg" height="180" width="250"><br>
-      <sub>小程序码</sub>
-    </td>
-    <td align="center">
-      <img src="images/hots-index.png" height="180"><br>
+      <img src="images/hots-index.png" height="200"><br>
       <sub>热搜分类</sub>
     </td>
     <td align="center">
-      <img src="images/hots-list.png" height="180"><br>
+      <img src="images/hots-list.png" height="200"><br>
       <sub>榜单列表</sub>
     </td>
     <td align="center">
-      <img src="images/hots-word.png" height="180"><br>
+      <img src="images/hots-word.png" height="200"><br>
       <sub>热词趋势</sub>
     </td>
     <td align="center">
-      <img src="images/hots-car.png" height="180"><br>
+      <img src="images/hots-car.png" height="200"><br>
       <sub>汽车热榜</sub>
     </td>
   </tr>
