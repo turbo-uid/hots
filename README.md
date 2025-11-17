@@ -31,20 +31,47 @@ go run cmd/api/main.go
 
 
 ## 微信小程序体验
-<p float="left">
-  <img src="images/wechat-mini.jpg" width="180">
-  <img src="images/hots-index.png" width="180">
-  <img src="images/hots-list.png" width="180">
-  <img src="images/hots-word.png" width="180">
-  <img src="images/hots-car.png" width="180">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/wechat-mini.jpg" height="180" width="250"><br>
+      <sub>小程序码</sub>
+    </td>
+    <td align="center">
+      <img src="images/hots-index.png" height="180"><br>
+      <sub>热搜分类</sub>
+    </td>
+    <td align="center">
+      <img src="images/hots-list.png" height="180"><br>
+      <sub>榜单列表</sub>
+    </td>
+    <td align="center">
+      <img src="images/hots-word.png" height="180"><br>
+      <sub>热词趋势</sub>
+    </td>
+    <td align="center">
+      <img src="images/hots-car.png" height="180"><br>
+      <sub>汽车热榜</sub>
+    </td>
+  </tr>
+</table>
+
 
 
 ## 联系作者
-<p float="left">
-  <img src="images/mp.jpg" width="300" height="300">
-  <img src="images/author.jpg" width="220" height="300">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/mp.jpg" height="300"><br>
+      <sub>公众号</sub>
+    </td>
+    <td align="center">
+      <img src="images/author.jpg" height="300"><br>
+      <sub>微信</sub>
+    </td>
+  </tr>
+</table>
+
 
 
 ### *声明本代码仅供学习参考，请勿用于商业用途。如有侵权行为，请联系作者删除。*
