@@ -31,13 +31,20 @@ go run cmd/api/main.go
 
 
 ## 微信小程序体验
-<img src="images/wechat-mini.jpg" width="300">
-
-## 微信公众号
-<img src="images/mp.jpg" width="300">
+<p float="left">
+  <img src="images/wechat-mini.jpg" width="180">
+  <img src="images/hots-index.png" width="180">
+  <img src="images/hots-list.png" width="180">
+  <img src="images/hots-word.png" width="180">
+  <img src="images/hots-car.png" width="180">
+</p>
 
 
 ## 联系作者
-<img src="images/author.jpg" width="300">
+<p float="left">
+  <img src="images/mp.jpg" width="300" height="300">
+  <img src="images/author.jpg" width="220" height="300">
+</p>
+
 
 ### *声明本代码仅供学习参考，请勿用于商业用途。如有侵权行为，请联系作者删除。*

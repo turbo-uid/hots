@@ -29,7 +29,7 @@ func InitRouter() *gin.Engine {
 		apiGroup.GET("/hot/qq", api.QqHot)
 		apiGroup.GET("/hot/baidu", api.BaiduHot)
 		apiGroup.GET("/hot/zhihu/v1", api.ZhihuByHtmlHot)
-		apiGroup.GET("/hot/zhihu/v2", api.ZhihuByJsonHot)
+		// apiGroup.GET("/hot/zhihu/v2", api.ZhihuByJsonHot)
 		apiGroup.GET("/hot/36kr", api.To36krHot)
 		apiGroup.GET("/hot/csdn", api.CsdnHot)
 		apiGroup.GET("/hot/csdn-content", api.CsdnContent)
